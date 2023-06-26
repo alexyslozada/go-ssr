@@ -26,7 +26,7 @@
           </p>
           <div class="flex nowrap s-to-bottom">
             <a
-              class="s-cross-center smaller background blue-100 s-radius s-px-1 s-py-05 s-mr-1" href="/cursos">
+              class="s-cross-center smaller background blue-100 s-radius s-px-1 s-py-05 s-mr-1" href="/cursos/{{ $course.Slug }}">
               <svg
                 xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 16.103" class="svg-icon s-mr-05 fill blue-500">
                 <path
